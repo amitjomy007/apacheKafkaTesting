@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "kafkajs": "^2.2.4",
+    "yarn": "^1.22.22"
+  },
+  "name": "kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amitjomy007/apacheKafkaTesting.git",
+  "author": "amitjomy007 <amitjomy007@gmail.com>",
+  "license": "MIT"
+}
